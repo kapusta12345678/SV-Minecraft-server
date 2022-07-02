@@ -1,0 +1,360 @@
+body {
+background: #393939;
+}
+
+.logo {
+margin-top: 10px;
+}
+
+h1 {
+font-family: Arial;
+font-size: 60px;
+color: white;
+margin-left: 10px;
+}
+
+.glaf {
+position: absolute; 
+margin-left: 500px;
+margin-top: 100px;
+opacity: 0.9;
+}
+
+.glaf:hover {
+opacity: 1;
+}
+.text1 {
+font-family: arial;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+color: #929292;
+margin-top: 100px;
+margin-left: 10px;
+}
+
+.text2 {
+position: absolute;
+width: 214px;
+height: 94px;
+font-family: arial;
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 47px;
+text-align: center;
+letter-spacing: -0.02em;
+border: 2px solid #4A4A4A;
+padding: 10px;
+border-radius: 10px;
+color: white;
+margin-left: 60px;
+}
+
+.text2:hover {
+background-color: #4A4A4A;
+}
+
+h2 {
+font-family: arial;
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+color: white;
+margin-left: 60px;
+margin-top: 230px;
+}
+
+.text3 {
+font-family: arial;
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+color: white;
+margin-left: 25px;
+}
+
+.text4 {
+font-family: Arial;
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+color: #C6C6C6;
+margin-left: 10px;
+}
+
+.podrobnee1 {
+font-family: sans-serif;
+font-size: 20px;
+widht: 100px;
+color: white;
+padding: 10px;
+border-radius: 10px;
+color: white;
+border: 2px solid #4A4A4A;
+text-decoration: none;
+margin-left: 32px; 
+margin-top: 10px;
+position: absolute;
+}
+
+.podrobnee1:hover {
+background-color: #7D53D7;
+}
+.product1 {
+width: 200px;	
+height: 300px; 
+border: 2px solid #4A4A4A;
+border-radius: 20px;
+margin-left: 60px;
+float: left;
+position: absolute;
+}
+
+.product1:hover {
+background-color: #4A4A4A;
+}
+
+.text5 {
+font-family: arial;
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+color: white;
+margin-left: 25px;
+}
+
+.text6 {
+font-family: Arial;
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+color: #C6C6C6;
+margin-left: 17px;
+}
+
+.podrobnee2 {
+font-family: sans-serif;
+font-size: 20px;
+widht: 100px;
+color: white;
+padding: 10px;
+border-radius: 10px;
+color: white;
+border: 2px solid #4A4A4A;
+text-decoration: none;
+margin-left: 32px; 
+margin-top: 10px;
+position: absolute;
+}
+
+.podrobnee2:hover {
+background-color: #7D53D7;
+}
+
+.product2 {
+width: 200px;	
+height: 300px; 
+border: 2px solid #4A4A4A;
+border-radius: 20px;
+margin-left: 290px;
+float: left;
+position: absolute;
+}
+
+.product2:hover {
+background-color: #4A4A4A;
+}
+
+.text7 {
+font-family: arial;
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+color: white;
+margin-left: 25px;
+}
+
+.text8 {
+font-family: Arial;
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+color: #C6C6C6;
+margin-left: 10px;
+}
+
+.podrobnee3 {
+font-family: Arial;
+font-size: 20px;
+widht: 100px;
+color: white;
+padding: 10px;
+border-radius: 10px;
+color: white;
+border: 2px solid #4A4A4A;
+text-decoration: none;
+margin-left: 32px; 
+margin-top: 10px;
+position: absolute;
+}
+
+.podrobnee3:hover {
+background-color: #7D53D7;
+}
+
+.product3 {
+width: 200px;	
+height: 300px; 
+border: 2px solid #4A4A4A;
+border-radius: 20px;
+margin-left: 520px;
+float: left;
+position: absolute;
+}
+
+.product3:hover {
+background-color: #4A4A4A;
+}
+
+.text9 {
+font-family: arial;
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+color: white;
+margin-left: 25px;
+}
+
+.text10 {
+font-family: Arial;
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+color: #C6C6C6;
+margin-left: 10px;
+}
+
+.podrobnee4 {
+font-family: Arial;
+font-size: 20px;
+widht: 100px;
+color: white;
+padding: 10px;
+border-radius: 10px;
+color: white;
+border: 2px solid #4A4A4A;
+text-decoration: none;
+margin-left: 32px; 
+margin-top: 10px;
+position: absolute;
+}
+
+.podrobnee4:hover {
+background-color: #7D53D7;
+}
+
+.product4 {
+width: 200px;	
+height: 300px; 
+border: 2px solid #4A4A4A;
+border-radius: 20px;
+margin-left: 760px;
+float: left;
+position: absolute;
+}
+
+.product4:hover {
+background-color: #4A4A4A;
+}
+
+.text15 {
+margin-top: 410px;
+position: absolute;
+margin-left: 60px;
+font-family: arial;
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+color: white;
+}
+
+.logo2 {
+margin-top: 400;
+position: absolute;
+}
+
+.text16 {
+font-family: arial;
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+color: #929292;
+margin-top: 490px;
+margin-left: 10px;
+text-align: left;
+position: absolute;
+}
+
+
+.text17 {
+margin-top: 410px;
+position: absolute;
+margin-left: 560px;
+font-family: arial;
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+color: white;
+position: absolute;
+}
+
+.text18 {
+font-family: arial;
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+color: #929292;
+margin-top: 500px;
+margin-left: 562px;
+text-align: left;
+position: absolute;
+}
+
+.tenkoff {
+border-radius: 5px;
+paddig: 5px;
+margin-left: 580px;
+margin-top: 460px;
+position: absolute;
+}
+
+.visa {
+border-radius: 6px;
+paddig: 5px;
+margin-left: 670px;
+margin-top: 459px;
+position: absolute;
+}
+
+.mir {
+border-radius: 5px;
+paddig: 5px;
+margin-left: 780px;
+margin-top: 460px;
+position: absolute;
+}
+
+.masterkard {
+border-radius: 5px;
+paddig: 5px;
+margin-left: 890px;
+margin-top: 460px;
+position: absolute;
+}
+
+
+
+
+
+
